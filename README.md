@@ -57,3 +57,4 @@ Join our community of developers creating universal apps.
 "# FortuneTeller" 
 "# FortuneTeller" 
 "# FortuneTeller" 
+This project is a mobile application developed for Mobile Application Development Practical 02 using React Native and Expo Router to implement screen-to-screen navigation. It features a Stack Navigator that controls a welcome home screen and a fortune reveal screen, utilizing custom UI elements like View, Text, Image, and styling via StyleSheet to build a responsive user interface.
